@@ -1,0 +1,1 @@
+requeridos_list = ['adamastor','pombal']
